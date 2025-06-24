@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: AI‐based CPR Agent
 permalink: /projects/test/
 ---
@@ -7,3 +7,6 @@ permalink: /projects/test/
 ## AI-based CPR Agent
 
 A deeper write-up of my work on the multi-agent RL CPR simulation…
+- Challenge: …
+- Solution: …
+- Outcomes: … 
