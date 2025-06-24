@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {% include head.html %}
+  <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+    {% include header.html %}
+    <main class="page-content">
+      <div class="wrapper">
+        <article class="container project-container">
+          <h1>{{ page.title }}</h1>
+          {{ content }}
+        </article>
+      </div>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
