@@ -39,10 +39,10 @@ linkedin_username: -nimish-goel-
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -65,31 +65,49 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
+# content:
+#   - title: Projects # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         border: weak  # Value of `weak` will display a weak border below this item. # Any 
+#                       # other value (or no value) means no border will be displayed
+#         title: Project name
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         quote: >
+#           Short overview of the project (optional)
+#         description: | # this will include new lines to allow paragraphs
+#           Description about the work on/with the project
+
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: AI-based CPR Agent
+        link: /projects/test/       # ← your new page
+        link_text: Read more
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: GitHub
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/NGoel-7/ai-cpr-agent
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          A quick bullet or subtitle…
+        description: |
+          One-line teaser—click “Read more” for details.
+
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
