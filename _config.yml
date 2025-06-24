@@ -93,7 +93,7 @@ content:
     content:
       - layout: left
         title: AI-based CPR Agent
-        link: /projects/test/       # ← your new page
+        link: https://ngoel-7.github.io/projects/test/       # ← your new page
         link_text: Read more
         additional_links:
           - title: GitHub
