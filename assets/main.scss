@@ -5,19 +5,37 @@
 @import 'modern-resume-theme'; 
 
 // Custom styles for project pages
+// .project-container {
+//   max-width: 700px;
+//   margin: 3rem auto;
+//   padding: 1rem;
+//   background: #f9f9f9;
+//   border-radius: 8px;
+// }
+
+// .project-container h1 {
+//   margin-bottom: 1rem;
+//   font-size: 2rem;
+// }
+
+// .project-container p {
+//   line-height: 1.6;
+// }
+
+// Style to match resume sections
 .project-container {
-  max-width: 700px;
-  margin: 3rem auto;
-  padding: 1rem;
-  background: #f9f9f9;
-  border-radius: 8px;
+  @extend .container;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
-.project-container h1 {
-  margin-bottom: 1rem;
-  font-size: 2rem;
+// Consistent header styling
+header {
+  margin-bottom: 2rem;
 }
 
-.project-container p {
-  line-height: 1.6;
+// Link styles in project pages
+.project-container a {
+  color: $primary;  // Use theme’s primary color
+  text-decoration: underline;
 }
