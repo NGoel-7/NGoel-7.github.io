@@ -14,9 +14,9 @@ version: 2
 name: Nimish Goel
 title: ECE & CS Junior @ Cornell University
 email: ng449@cornell.edu
-email_title: Email 
+email_title: Work Email 
 phone: +1 607-793-7410
-phone_title: Call me
+phone_title: Phone
 # website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
@@ -25,13 +25,13 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  NGoel-7
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: -nimish-goel-
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -55,7 +55,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/Nimish_Goel_Headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
