@@ -1,9 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Nimish Goel
+subtitle            : Portfolio
+logo               : https://i.imgur.com/uyDNQnn.jpg
+favicon            : assets/favicon.ico
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I am a Cornell University Undergrad pursuing Electrical and Computer Engineering with a minor in Computer Science
+                      I focus on Embedded Systems, Robotics and Machine Learning. I have a passion for building innovative solutions that make a difference.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : NGoel-7/NGoel-7.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -26,16 +28,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Nimish Goel
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : assets/Nimish_Goel_Headshot.jpg
+  # behance           : your_username
 # dribbble          : your_username
   email             : ng449@cornell.edu
   # facebook          : your_username
-  github            : your_username
+  github            : NGoel-7
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : -nimish-goel-
   # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
