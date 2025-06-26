@@ -8,11 +8,12 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is where can read a little more about <mark> me </mark>. ** I am definitely a very interesting person with a quintillion interests**.
+Or I could show off some **Skills** and write a bit more about things that make me more employable, like *leadership* and *teamwork*
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming Languages" source=site.data.programming-skills %}
+{% include about/skills.html title="Hardware Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
