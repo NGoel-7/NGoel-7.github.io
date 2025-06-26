@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Microcontrollers and Prototyping
+  percentage: 
   color: info
 
-- name: Adobe Illustrator
+- name: PCB Design and Validation
   percentage: 90
   color: success
