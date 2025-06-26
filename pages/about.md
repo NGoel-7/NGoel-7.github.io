@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: deafult
 title: About
 permalink: /about/
 weight: 3
