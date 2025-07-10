@@ -9,18 +9,30 @@ weight: 2
 
 Hi, I am **Nimish** :wave:,<br>
 
-I am interested in developing my skillset in robotics, ML, firmware and computer hardware. I plan to enter industry upon graduation. 
+I am interested in developing my skillset in *firmware* and *specialized hardware for ML/AI*.I am looking for opportunities to apply my past experiences and forge products from ideas. 
+I also look out for tech markets based investment roles.
 
-I am currently working on Multi-Agent RL human robot collaboration algorithms as a engineering research intern at Cornell Tech, NYC. 
+I am currently working on Multi-Agent RL human robot collaboration simulations as a engineering research intern at Cornell Tech in NYC. This involves designing and implementing MARL algorithms and expanding backend to process multiple tasks simultaneously.
 
-During the semester, I build an awesome EV that competes in the annual Shell Eco Marathon. On other days, I work as a course TA for a Digital Logic course. These are some of the best learning experiences I have had at Cornell, giving me an opportunity to meet many inspiring engineers. 
+During the academic semester, I build an awesome EV that competes in the annual Shell Eco Marathon. On other days, I work as a course TA for the Digital Logic course. Coming to Cornell with limited engineering experience, these are some of the best learning experiences I have had, where I have met many inspiring engineers. 
 
-In my spare time, you will find me following up on global affairs, financial markets, and reading cool wikipedia pages. Sometimes, I watch movies and soccer. Lets chat about any of these. 
+## **Technical Skills**
+* program in Python, OCaml, C/C++ and Verilog.
+* experience working with Raspberry Pi, the pico and ESP32 based microcontrollers (SPI, UART, CAN, BLE)
+* familiarity with PCB design (Altium) and debugging hardware 
+* have used git/ github for my projects and research work
+* looking to explore robotics (ROS) and financial analytics during the upcoming year
 
-I was brought up in India, but have been studying in the USA for over 4 years and often visit my parents, who now live in Dubai. 
+In addition to these, I have experience leading several technical and non-technical projects with over 30 contributors. I like thinking about long-term, big-picture ideas to improve products and make inter-team organization/ comms smoother.
+
+## **In case you are interested...**
+
+In my spare time, you will find me following up on global affairs, financial markets, and reading cool wikipedia pages. I also like to watch action movies and soccer. I would love to chat about any of these. 
+
+I was brought up in India, and have been studying in the USA for over 4 years. I often visit my parents, who now live in Dubai. The essence of a rather complex story is that I got a scholarship to complete my last two years at UWC-USA, which was a transformative opportunity to learn amongst a global community of peers. It transformed the way I look at work and life, and provided me with a network of driven yet nice people.
 
 This is where can read a little more about <mark> me </mark>. **I am definitely a very interesting person with a quintillion interests**.
-Or I could show off some Skills and write a bit more about things that make me more employable, like *leadership* and *teamwork*
+
 
 {% capture carousel_images %}
 https://bit.ly/2BBbVhc
