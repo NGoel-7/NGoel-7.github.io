@@ -14,18 +14,19 @@ I also look out for tech markets based investment roles.
 
 I am currently working on Multi-Agent RL human robot collaboration simulations as a engineering research intern at Cornell Tech in NYC. This involves designing and implementing MARL algorithms and expanding backend to process multiple tasks simultaneously.
 
-During the academic semester, I build an awesome EV that competes in the annual Shell Eco Marathon. On other days, I work as a course TA for the Digital Logic course. Coming to Cornell with limited engineering experience, these are some of the best learning experiences I have had, where I have met many inspiring engineers. 
+During the academic semester, I build an awesome EV that competes in the annual Shell Eco Marathon. On other days, I work as a course TA for the Digital Logic course. These are some of the best learning experiences I have had, where I have met many inspiring engineers. 
+
 
 ## **Technical Skills**
-* program in Python, OCaml, C/C++ and Verilog.
-* experience working with Raspberry Pi, the pico and ESP32 based microcontrollers (SPI, UART, CAN, BLE)
+* Python, OCaml, C/C++ and Verilog.
+* experience working with Raspberry Pi, Pi Pico and ESP32-based microcontrollers (SPI, UART, CAN, BLE)
 * familiarity with PCB design (Altium) and debugging hardware 
-* have used git/ github for my projects and research work
+* git/ github (used for most projects as well as research)
 * looking to explore robotics (ROS) and financial analytics during the upcoming year
 
 In addition to these, I have experience leading several technical and non-technical projects with over 30 contributors. I like thinking about long-term, big-picture ideas to improve products and make inter-team organization/ comms smoother.
 
-## **In case you are interested...**
+## **Misc...**
 
 In my spare time, you will find me following up on global affairs, financial markets, and reading cool wikipedia pages. I also like to watch action movies and soccer. I would love to chat about any of these. 
 
