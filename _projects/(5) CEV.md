@@ -24,9 +24,9 @@ I lead a team of two peers while developing this system and liased with leads of
 ### Auxilliary Board and System Integration
 Designed and built a complete Wiring harness system to enable easy access to critical car systems during competition. Prototyped several sub-systems: lighting, horn, emergency stop, braking, etc as part of safety system design. Co-designed updated PCB based on team design requirements. 
 
-{% include elements/figure.html image= "assets\CEV_Wiring_Schematic.jpeg" caption="Harness System Diagram" %}
+{% include elements/figure.html image= "/assets/CEV_Wiring_Schematic.jpeg" caption="Harness System Diagram" %}
 
-<img src="assets\CEV_Wiring_Schematic.jpeg" alt="Alt text" width="200" height="100">
+<img src="/assets/CEV_Wiring_Schematic.jpeg" alt="Alt text" width="200" height="100">
 
 
 
