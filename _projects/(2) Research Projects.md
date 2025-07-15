@@ -1,6 +1,6 @@
 ---
 name: Research 
-tools: [ML, PCIe, RL, numPy]
+tools: [Verilog, PCIe, RL, numPy]
 image: /assets/CSL.png
 description: Some of my research endeavors include designing kernels for optimizing Llama 3, and simulations of multi-agent RL for robot collaboration.
 ---
