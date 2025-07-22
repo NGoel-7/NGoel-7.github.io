@@ -3,9 +3,12 @@ title               : Nimish Goel
 subtitle            : Portfolio
 favicon            : assets/favicon.ico
 description         : >-
-                      Cornell University Undergrad pursuing Electrical and Computer Engineering with a minor in Computer Science and Applied Economics.
-                      I dabble in Firmware, Robotics and Machine Learning hardware. I am also interested in exploring the intersection of tech and finance.
-                      I am seeking internships for Summer 2026. 
+                      Hello—I’m a junior at Cornell University studying Computer Science & Engineering. I’m passionate about developing scalable, efficient systems at the hardware–software boundary and thrive in fast-paced, multidisciplinary teams. 
+                      Explore my Projects and Experience to see how I translate complex problems into impactful solutions, or get in touch to collaborate.  
+
+                      # Cornell University Undergrad pursuing Electrical and Computer Engineering with a minor in Computer Science and Applied Economics.
+                      # I dabble in Firmware, Robotics and Machine Learning hardware. I am also interested in exploring the intersection of tech and finance.
+                      # I am seeking internships for Summer 2026. 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : NGoel-7/NGoel-7.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
